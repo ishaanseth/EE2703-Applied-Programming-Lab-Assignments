@@ -1,0 +1,8 @@
+.circuit
+V1 N1 0 DC 5
+R1 N1 N2 1k
+.end
+.circuit
+V2 N2 0 DC 10
+R2 N2 0 1k
+.end
